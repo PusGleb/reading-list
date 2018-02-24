@@ -1,5 +1,6 @@
-package com.example.readingList;
+package com.example.readingList.repository;
 
+import com.example.readingList.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
